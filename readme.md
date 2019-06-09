@@ -16,9 +16,9 @@ We do not encourage hacking in any of the aforementioned ways
 The easiest way is to fork this repository on GitHub, modify existing lines, or add your own, and then submit a [pull request](https://help.github.com/en/articles/about-pull-requests). If you could quote a source link or text with your commit message.
 
 
-## Requirements
- * PHP version 5.2.0 or higher
- * Nginx or Apache Server
+## Features
+ * Auto Detect Desktop o Mobile
+ * Auto Redirect to Desktop o Mobile Pishing
 
 
 ## Questions or feedback?
