@@ -5,7 +5,8 @@ https://github.com/ishlovenko/php-geolocation
 
 ## Using the script
 
-You are free to use this for any purpose, including private or commercial use.
+Only for intellectual use, we are not responsible for damages to third parties.
+We do not encourage hacking in any of the aforementioned ways
 
 **This uses IP2Location Database Lite**
 
