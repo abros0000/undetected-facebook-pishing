@@ -1,14 +1,13 @@
-# Open-source Unlimited Phone Carrier Lookup
+# Private Undetected Facebook Pishing
 
-This is a Phone Carrier Location Using Curl Method To get Numverify's Data
-![script](https://user-images.githubusercontent.com/34350936/59162092-dab9d600-8ab0-11e9-85da-52ecb6478c7e.png)
-
+This is a private Script coded by Ishlovenko with php-geolocation
+https://github.com/ishlovenko/php-geolocation
 
 ## Using the script
 
 You are free to use this for any purpose, including private or commercial use.
 
-**This data uses Numverify API** Access codes are obtained remotely to obtain the data, so there is no guarantee that in the future it will continue working
+**This uses IP2Location Database Lite**
 
 
 ## Contributing
